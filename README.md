@@ -5,9 +5,14 @@
 ---
 
 ## 🛠 Skills
-Python | JavaScript | Java | HTML/CSS | Git | MySQL | Command Line  
+Python
+Java
+JavaScript
+HTML/CSS
+Git
+MySQL
+Command Line  
 
----
 
 ## 📂 Featured Repositories
 - [**software1-2-exercises**](https://github.com/Nurha20-24/software1-2-exercises) 
