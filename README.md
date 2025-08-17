@@ -5,13 +5,13 @@
 ---
 
 ## 🛠 Skills
-Python
-Java
-JavaScript
-HTML/CSS
-Git
-MySQL
-Command Line  
+Python  
+Java  
+JavaScript  
+HTML/CSS  
+Git  
+MySQL  
+Command Line 
 
 
 ## 📂 Featured Repositories
