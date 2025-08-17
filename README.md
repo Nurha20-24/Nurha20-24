@@ -1,6 +1,7 @@
 # Hi, I'm Nur Hana 👋
 
-2nd-year ICT student at **Metropolia University of Applied Sciences**, majoring in **Software Engineering** with a focus on **Machine Learning**.
+2nd-year ICT student at **Metropolia University of Applied Sciences**, majoring in **Software Engineering** with a focus on **Machine Learning**.  
+📧 nur.hana@metropolia.fi
 
 ---
 
@@ -22,7 +23,7 @@
 ---
 
 ## 🌱 Learning
-- Java
+ Java
 
 ---
 
